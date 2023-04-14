@@ -1,0 +1,1 @@
+modulo(X,Y,R):- W is X//Y, R is X-(Y*W).
